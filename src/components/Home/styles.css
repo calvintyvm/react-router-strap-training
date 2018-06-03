@@ -1,0 +1,134 @@
+.testing {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  border-radius: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center !important;
+}
+
+.main-container {
+  background-color: #f3f4f5;
+  font-family: "Lato", sans-serif !important;
+}
+
+.jumbo-container {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.jumbo-title {
+  color: #fafafa !important;
+  font-weight: bold;
+  font-size: 46px;
+}
+
+.jumbo-title2 {
+  color: #fafafa !important;
+  font-weight: lighter;
+  margin-left: 2px;
+  font-size: 46px;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 4%;
+}
+
+.btn {
+  margin-bottom: 7%;
+  /* width: 20%; */
+  height: 100%;
+  color: black;
+}
+
+.learn-more {
+  height: 50px;
+  margin: 0 auto;
+  width: 125px;
+}
+
+.media-left {
+  margin-top: 5%;
+  height: 100%;
+  width: 57%;
+}
+
+.media {
+  display: flex !important;
+  align-items: center;
+  height: 100vh;
+}
+
+.image1 {
+  margin-left: 4%;
+  width: 100%;
+  height: 100%;
+}
+
+.image1-body {
+  width: 40%;
+}
+
+.media-heading {
+  margin-bottom: 13%;
+  font-size: 40px;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+  background-image: none !important;
+}
+
+.carousel-indicators {
+  display: none !important;
+}
+
+.icon1 {
+  width: 40%;
+}
+
+.icon2 {
+  width: 40%;
+}
+
+.icon3 {
+  width: 40%;
+}
+
+.body-1 {
+  margin-bottom: 10%;
+}
+.show-grid {
+  text-align: center;
+}
+
+.iconp {
+  margin-top: 10%;
+}
+
+.part2 {
+  height: 100vh;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.part2-image {
+  width: 35%;
+  height: 60%;
+  margin-bottom: 4%;
+}
+.part2-text {
+  width: 65%;
+  margin-top: 3%;
+}
