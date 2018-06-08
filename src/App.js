@@ -13,11 +13,10 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <StickyHeader header={<Navbar />}>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/About" component={About} />
-            <Route exact path="/News" component={News} />
-          </StickyHeader>
+          <StickyHeader header={<Navbar />} />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/About" component={About} />
+          <Route exact path="/News" component={News} />
         </div>
       </Router>
     );

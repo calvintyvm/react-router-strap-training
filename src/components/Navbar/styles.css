@@ -2,19 +2,18 @@
   margin-bottom: 0 !important;
   background-image: none !important;
   border-color: none !important;
-  background-color: none !important;
+  /* background-color: none !important; */
 }
 
 .navbar-default {
-  background: none !important;
+  /* background: none !important; */
   border: none;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #1a237e !important;
-  /* color: #263238 !important; */
+  color: white !important;
 }
 
 .navbar-brand {
-  color: #1a237e !important;
+  color: white !important;
 }
